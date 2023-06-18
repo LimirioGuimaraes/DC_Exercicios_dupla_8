@@ -1,44 +1,35 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
+Tema:
  - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# Exercícios Resolvidos
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0040201  | Limírio Correia Guimarães |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém soluções para o Problema 1295 do Beecrowd e o Exercício 559B do Codeforces.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Problema dos Pares Mais Próximos](https://github.com/LimirioGuimaraes/DC_Exercicios_dupla_8/assets/80782534/93e6ab59-f899-42dc-ab3a-a4deb34a4650)
+![Strings equivalentes](https://github.com/LimirioGuimaraes/DC_Exercicios_dupla_8/assets/80782534/ef606269-7c77-4213-84e8-70642efde874)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python 3.9<br>
+**Framework**: Sem framework necessário<br>
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar os algoritmos deste repositório, siga as etapas abaixo:
+1. Certifique-se de ter um compilador para Python 3 instalado em seu sistema.
+2. Faça o clone deste repositório Git para o seu ambiente local.
+3. Execute o arquivo Python desejado utilizando o compilador Python 3.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[Vídeo] (https://youtu.be/LnH0xdxy_cE)
 
 
 
