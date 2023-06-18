@@ -29,7 +29,7 @@ Para rodar os algoritmos deste repositório, siga as etapas abaixo:
 3. Execute o arquivo Python desejado utilizando o compilador Python 3.
 
 ## Outros 
-[Vídeo].(https://youtu.be/LnH0xdxy_cE)
+[Vídeo]([https://youtu.be/O9FGYhN1cOY](https://youtu.be/LnH0xdxy_cE)https://youtu.be/LnH0xdxy_cE)
 
 
 
